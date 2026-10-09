@@ -244,6 +244,7 @@ image versions below were current when written; if a tag is gone, use the newest
 6. **Run both services with tracing on.** The only difference between them is the service name.
    ```bash
    export OTEL_EXPORTER_OTLP_ENDPOINT=http://localhost:4318
+   export OTEL_NODE_RESOURCE_DETECTORS=env,host,os,process   # skip cloud-metadata probes (they print a harmless warning on a laptop)
    OTEL_SERVICE_NAME=inventory node --require ./tracing.js inventory.js &
    OTEL_SERVICE_NAME=shop-api  node --require ./tracing.js shop-api.js  &
    ```
