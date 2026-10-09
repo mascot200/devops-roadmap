@@ -249,9 +249,18 @@ or near-free objects (data sources, security groups, SSM parameters). No EC2 ins
      name = "/aws/service/ami-amazon-linux-latest/al2023-ami-kernel-default-x86_64"
    }
 
-   output "account_id" { value = data.aws_caller_identity.current.account_id }
-   output "azs"        { value = data.aws_availability_zones.available.names }
-   output "ami_id"     { value = data.aws_ssm_parameter.al2023_ami.value, sensitive = true }
+   output "account_id" {
+     value = data.aws_caller_identity.current.account_id
+   }
+
+   output "azs" {
+     value = data.aws_availability_zones.available.names
+   }
+
+   output "ami_id" {
+     value     = data.aws_ssm_parameter.al2023_ami.value
+     sensitive = true
+   }
    ```
    ```bash
    terraform init && terraform apply -auto-approve
