@@ -159,7 +159,7 @@ No Internet traffic is used and all names are fake (`example.com` is reserved fo
    mk example.com.internal.zone 10.0.1.10     10.0.1.20    10.0.2.30      # private
    mk example.com.eu.zone       198.51.100.10 198.51.100.20 203.0.113.30  # Europe region
    ```
-   (The heredoc body is indented by your shell prompt only in this Markdown; in your terminal the lines start at column 0. If you paste into an indented context, remove leading spaces from the zone lines.)
+   Paste each block exactly as shown (the closing `EOF` must start at column 0 in your terminal).
 
 3. **Configure BIND with views.** Order matters: the first view whose `match-clients` matches wins.
    ```bash
