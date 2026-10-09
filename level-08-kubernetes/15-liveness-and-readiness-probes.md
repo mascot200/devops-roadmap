@@ -118,7 +118,7 @@ livenessProbe:
   timeoutSeconds: 2
   failureThreshold: 3         # ~30 s of being stuck before a restart
 readinessProbe:
-  httpGet: {path: /readyz, port: http}    # includes PostgreSQL and Redis
+  httpGet: {path: /readyz, port: http}    # includes PostgreSQL (Redis is only a cache)
   periodSeconds: 5
   timeoutSeconds: 2
   failureThreshold: 2         # leave rotation after ~10 s
