@@ -245,3 +245,7 @@ was prevention, not heroics.
 - `man hier` — the manual page describing the filesystem hierarchy on your machine.
 - `man proc` and `man 5 proc` — what every file in `/proc` means.
 - *The Linux Command Line* by William Shotts (free online) — chapters on the filesystem.
+
+<!-- nav -->
+---
+← Previous level: [Level 0 — What DevOps Actually Is](../level-00-what-devops-is/README.md) · [Level 1 index](README.md) · Next: [Navigating and Managing Files](02-navigating-and-managing-files.md) →
