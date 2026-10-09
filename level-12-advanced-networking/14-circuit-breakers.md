@@ -177,7 +177,8 @@ You will build a flaky dependency, watch a naive client suffer, wrap the client 
    if __name__ == "__main__":
        ThreadingHTTPServer(("127.0.0.1", 9100), H).serve_forever()
    EOF
-   (python3 backend.py > backend.log 2>&1 &)
+   python3 backend.py > backend.log 2>&1 &
+   echo $! > backend.pid
    sleep 1; curl -s http://127.0.0.1:9100/work
    ```
    Expected: `stock=42`.
@@ -437,7 +438,7 @@ You will build a flaky dependency, watch a naive client suffer, wrap the client 
 
 9. **Clean up.**
    ```bash
-   kill $(cat $LAB/nginx.pid); pkill -f "$LAB/backend.py" || pkill -f "python3 backend.py"
+   kill $(cat $LAB/nginx.pid) $(cat $LAB/backend.pid)
    cd ~; rm -r "$LAB"; unset LAB
    ```
 
@@ -542,3 +543,7 @@ Fix: (1) immediate: a feature flag turns the recommendations call off; (2) perma
 - Google, *Site Reliability Engineering*: the chapters "Handling Overload" and "Addressing Cascading Failures".
 - Resilience4j documentation (CircuitBreaker, Bulkhead, Retry); the Netflix Hystrix wiki (archived); Polly documentation for .NET.
 - Envoy documentation on circuit breaking, outlier detection and retry policies; Istio documentation on `DestinationRule` traffic policy; nginx `ngx_http_upstream_module` and `ngx_http_proxy_module`.
+
+<!-- nav -->
+---
+← Previous: [Rate Limiting](13-rate-limiting.md) · [Level 12 index](README.md) · Next: [Level capstone project](99-capstone-project.md) →
