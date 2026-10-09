@@ -38,17 +38,17 @@ flowchart LR
         r3["platform-infra<br/>catalog-info.yaml<br/>(databases)"]
     end
     ing["Catalog ingestion<br/>discovery and refresh"]
-    graph["Catalog graph<br/>entities and relations"]
+    cgraph["Catalog graph<br/>entities and relations"]
     ui["Portal UI<br/>search, owner pages,<br/>dependency graph"]
     sc["Scorecards<br/>production readiness"]
     api["Catalog API<br/>used by CI, alerts, bots"]
     r1 --> ing
     r2 --> ing
     r3 --> ing
-    ing --> graph
-    graph --> ui
-    graph --> sc
-    graph --> api
+    ing --> cgraph
+    cgraph --> ui
+    cgraph --> sc
+    cgraph --> api
 ```
 
 An example dependency graph for the running `shop` system:
