@@ -208,7 +208,7 @@ authorization code from handlers so it cannot be forgotten; log denials.
    }));
    // after successful login: req.session.regenerate(() => { req.session.userId = user.id; ... })
    ```
-   Check with `curl -si https://localhost... | grep -i set-cookie`: you should see `HttpOnly; Secure; SameSite=Lax`.
+   Check the login response with `curl -si -X POST https://localhost:8443/login ... | grep -i set-cookie` (adjust host and port to your lab): you should see `HttpOnly; Secure; SameSite=Lax`.
 
 6. **Infrastructure authz in miniature (optional):** if you have a kind cluster from [Kubernetes RBAC](../level-08-kubernetes/18-rbac.md), ask the API server the same question you just coded.
    ```bash
@@ -225,7 +225,7 @@ calls it with `curl`, and deletes 200 test orders; a week later one real order d
 
 Investigation shows the check existed only in the UI (function-level authorization missing on the server). The
 fix is a central `authorize('orders:delete')` on the route, a unit test that every registered route has an authorization policy
-(the test enumerates `app._router.stack` and fails if one lacks a marker), audit logs for destructive actions, and
+(the test walks the framework's registered route list and fails if one lacks a policy marker), audit logs for destructive actions, and
 quarterly review of who holds which role.
 
 **Lesson:** hiding a button is not authorization. Enforce on the server, centrally, and test that no route can be added without a policy.
