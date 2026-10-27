@@ -13,7 +13,9 @@
 
 ### Ubong Eduok
 
-**Instructor - DevOps Roadmap: Beginner to Senior**
+**Author and instructor - DevOps Roadmap: Beginner to Senior**
+
+GitHub: [@mascot200](https://github.com/mascot200)
 
 <!--
   TODO(instructor): replace docs/images/instructor-placeholder.svg with the real photo
