@@ -2,6 +2,30 @@
 
 *A practical learning path for becoming a Senior DevOps / Cloud / Platform Engineer.*
 
+## Your Instructor
+
+<table>
+  <tr>
+    <td width="190" align="center" valign="top">
+      <img src="docs/images/instructor-placeholder.svg" alt="Ubong Eduok" width="160">
+    </td>
+    <td valign="top">
+
+### Ubong Eduok
+
+**Instructor - DevOps Roadmap: Beginner to Senior**
+
+<!--
+  TODO(instructor): replace docs/images/instructor-placeholder.svg with the real photo
+  (for example docs/images/ubong-eduok.jpg, ~400x400, square) and update the <img src> above.
+  Then add a short bio here: current role / company, years in DevOps, specialities, certifications,
+  and contact links (LinkedIn, GitHub, X, website, email).
+-->
+
+</td>
+  </tr>
+</table>
+
 This repository turns the roadmap into a **hands-on curriculum**. Every level is a folder. Every topic inside a level is one page that contains:
 
 - a plain-English explanation and **why it matters** in production,
@@ -56,6 +80,41 @@ flowchart LR
 - [The senior-level mindset](guides/senior-mindset.md)
 - [Practical project progression](projects/README.md)
 
+## Deployment agents and skills (Claude Code)
+
+The roadmap teaches you to deploy by hand so you understand why every step exists. When you are ready to **ship real applications
+with an AI pair-deployer**, use the companion toolkit:
+**[`devops-deploy-toolkit`](https://github.com/mascot200/devops-deploy-toolkit)** - Claude Code agents, skills and scripts that
+deploy to a VPS, AWS, Kubernetes or a GitOps cluster with one rule built into the code: **look first, change only when a human has
+approved the plan.**
+
+```mermaid
+flowchart LR
+    P["deploy-planner<br/>plan and risks"] --> S["deploy-security-reviewer<br/>pre-deploy review"]
+    S --> A{"You approve<br/>the exact plan"}
+    A --> D["deployer<br/>applies once"]
+    D --> V["release-verifier<br/>evidence-based verdict"]
+    V -->|unhealthy| R["rollback-responder<br/>restore and timeline"]
+    DA["drift-auditor<br/>scheduled"] -.-> P
+```
+
+| Target | Skill | Roadmap lessons it builds on |
+|--------|-------|------------------------------|
+| Docker Compose on a VPS | `deploy-compose-vps` | [Docker Compose](level-04-docker/08-docker-compose.md), [Rollback](level-05-cicd/07-rollback.md) |
+| AWS with Terraform | `deploy-terraform-aws` | [Terraform](level-07-terraform-iac/README.md), [Drift detection](level-07-terraform-iac/09-drift-detection.md) |
+| Kubernetes with Helm | `deploy-helm-k8s` | [Helm](level-09-helm/README.md), [Probes](level-08-kubernetes/15-liveness-and-readiness-probes.md) |
+| GitOps with Argo CD | `deploy-gitops-argocd` | [GitOps](level-17-gitops/README.md), [Rollback through Git](level-17-gitops/06-rollback-through-git.md) |
+| Any of the above | `deploy-preflight`, `post-deploy-verify` | [CI/CD pipeline design](level-05-cicd/01-pipeline-design.md), [What to monitor](level-10-observability/11-what-to-monitor.md) |
+
+```bash
+git clone https://github.com/mascot200/devops-deploy-toolkit.git
+cd your-app-repo && ../devops-deploy-toolkit/install.sh --dry-run   # then without --dry-run
+```
+
+Everything is dry-run by default, production needs an explicit confirmation, and floating tags such as `latest` are refused. The scripts
+are tested with stub binaries and real local git; they have not been run against a live cloud account, so rehearse in staging first.
+Full guide: [`docs/GUIDE.md`](https://github.com/mascot200/devops-deploy-toolkit/blob/main/docs/GUIDE.md).
+
 ## Recommended path (summary)
 
 ```mermaid
@@ -80,6 +139,7 @@ flowchart TD
 devops-roadmap/
 ├── README.md
 ├── docs/TOPIC_TEMPLATE.md          # the structure every topic follows
+├── docs/images/                    # instructor photo and other images
 ├── guides/                         # learning order, timeline, senior mindset
 ├── projects/                       # nine end-to-end projects
 ├── level-00-what-devops-is/
