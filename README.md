@@ -155,3 +155,9 @@ devops-roadmap/
 ## Senior-level mindset
 
 Do not aim to become the person who knows 50 DevOps tools. Aim to become the engineer who can take a software application and independently make it production-ready: **secure, observable, scalable, highly available, automatically deployable, recoverable, and cost-efficient.**
+
+## License
+
+Released under the [MIT License](LICENSE) - Copyright (c) 2026 Ubong Eduok. You may use, copy, modify and share this material, including in
+your own courses and projects, as long as the copyright and license notice are kept. Everything is provided "as is"; run labs in
+sandboxes and read cost warnings before using real cloud accounts.
