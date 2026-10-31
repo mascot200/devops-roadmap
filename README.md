@@ -6,8 +6,8 @@
 
 <table>
   <tr>
-    <td width="190" align="center" valign="top">
-      <img src="docs/images/instructor-placeholder.svg" alt="Ubong Eduok" width="160">
+    <td width="260" align="center" valign="top">
+      <img src="docs/images/ubong-eduok.png" alt="Ubong Eduok with the DevOps tools taught in this course: Linux, Git, Docker, Kubernetes, Helm, Terraform, AWS, Argo CD, Prometheus and Grafana" width="240">
     </td>
     <td valign="top">
 
@@ -18,10 +18,9 @@
 GitHub: [@mascot200](https://github.com/mascot200)
 
 <!--
-  TODO(instructor): replace docs/images/instructor-placeholder.svg with the real photo
-  (for example docs/images/ubong-eduok.jpg, ~400x400, square) and update the <img src> above.
-  Then add a short bio here: current role / company, years in DevOps, specialities, certifications,
-  and contact links (LinkedIn, GitHub, X, website, email).
+  TODO(instructor): add a short bio here: current role / company, years in DevOps, specialities,
+  certifications, and contact links (LinkedIn, X, website, email).
+  The portrait card is docs/images/ubong-eduok.png (tool icons: Devicon, MIT licence).
 -->
 
 </td>
@@ -155,3 +154,9 @@ devops-roadmap/
 ## Senior-level mindset
 
 Do not aim to become the person who knows 50 DevOps tools. Aim to become the engineer who can take a software application and independently make it production-ready: **secure, observable, scalable, highly available, automatically deployable, recoverable, and cost-efficient.**
+
+## License
+
+Released under the [MIT License](LICENSE) - Copyright (c) 2026 Ubong Eduok. You may use, copy, modify and share this material, including in
+your own courses and projects, as long as the copyright and license notice are kept. Everything is provided "as is"; run labs in
+sandboxes and read cost warnings before using real cloud accounts.
