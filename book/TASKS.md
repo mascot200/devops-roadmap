@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 219 of 389 done.
+Every page of the book is one task, with one commit and one push. 220 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -221,7 +221,7 @@ Every page of the book is one task, with one commit and one push. 219 of 389 don
 - [x] **T217** Volume 3: 11.11 Secrets Scanning (pp. 2257-2269)
 - [x] **T218** Volume 3: 11.12 Rootless and Minimal Containers (pp. 2271-2284)
 - [x] **T219** Volume 3: 11.13 Dynamic Testing with OWASP ZAP (pp. 2285-2297)
-- [ ] **T220** Volume 3: Capstone 11 Harden shop-api end to end, with security gates in CI (pp. 2299-2318)
+- [x] **T220** Volume 3: Capstone 11 Harden shop-api end to end, with security gates in CI (pp. 2299-2318)
 - [ ] **T221** Volume 3: back cover
 - [ ] **T222** Volume 3: assemble the finished volume
 - [ ] **T223** Volume 3: print interior
