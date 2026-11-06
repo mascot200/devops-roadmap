@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 43 of 389 done.
+Every page of the book is one task, with one commit and one push. 44 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -45,7 +45,7 @@ Every page of the book is one task, with one commit and one push. 43 of 389 done
 - [x] **T041** Volume 1: 1.7 Users, Groups, sudo and root (pp. 285-296)
 - [x] **T042** Volume 1: 1.8 Processes, PIDs and Signals (pp. 297-308)
 - [x] **T043** Volume 1: 1.9 Daemons and systemd (pp. 309-321)
-- [ ] **T044** Volume 1: 1.10 System Monitoring Commands (pp. 323-334)
+- [x] **T044** Volume 1: 1.10 System Monitoring Commands (pp. 323-334)
 - [ ] **T045** Volume 1: 1.11 Services and Logs: systemctl and journalctl (pp. 335-347)
 - [ ] **T046** Volume 1: 1.12 SSH Keys, known_hosts and authorized_keys (pp. 349-362)
 - [ ] **T047** Volume 1: 1.13 ssh-agent and Port Forwarding (pp. 363-375)
