@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 326 of 389 done.
+Every page of the book is one task, with one commit and one push. 327 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -328,7 +328,7 @@ Every page of the book is one task, with one commit and one push. 326 of 389 don
 - [x] **T324** Volume 5: 18.2 Developer Portals (pp. 3415-3425)
 - [x] **T325** Volume 5: 18.3 Self-service Infrastructure (pp. 3427-3437)
 - [x] **T326** Volume 5: 18.4 Golden Paths (pp. 3439-3450)
-- [ ] **T327** Volume 5: 18.5 Service Catalogs (pp. 3451-3462)
+- [x] **T327** Volume 5: 18.5 Service Catalogs (pp. 3451-3462)
 - [ ] **T328** Volume 5: 18.6 Infrastructure Templates (pp. 3463-3474)
 - [ ] **T329** Volume 5: 18.7 Policy as Code (pp. 3475-3490)
 - [ ] **T330** Volume 5: 18.8 Backstage (pp. 3491-3504)
