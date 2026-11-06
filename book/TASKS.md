@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 173 of 389 done.
+Every page of the book is one task, with one commit and one push. 174 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -175,7 +175,7 @@ Every page of the book is one task, with one commit and one push. 173 of 389 don
 - [x] **T171** Volume 3: 8.8 Namespaces (pp. 1639-1651)
 - [x] **T172** Volume 3: 8.9 Volumes, PersistentVolumes and PersistentVolumeClaims (pp. 1653-1665)
 - [x] **T173** Volume 3: 8.10 StatefulSets (pp. 1667-1678)
-- [ ] **T174** Volume 3: 8.11 DaemonSets (pp. 1679-1690)
+- [x] **T174** Volume 3: 8.11 DaemonSets (pp. 1679-1690)
 - [ ] **T175** Volume 3: 8.12 Jobs and CronJobs (pp. 1691-1702)
 - [ ] **T176** Volume 3: 8.13 Scheduling (pp. 1703-1714)
 - [ ] **T177** Volume 3: 8.14 Resource Requests and Limits (pp. 1715-1725)
