@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 372 of 389 done.
+Every page of the book is one task, with one commit and one push. 373 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -374,7 +374,7 @@ Every page of the book is one task, with one commit and one push. 372 of 389 don
 - [x] **T370** Volume 6: Practical Project Progression (pp. 3835-3836)
 - [x] **T371** Volume 6: Project 1 Basic Server (pp. 3837-3848)
 - [x] **T372** Volume 6: Project 2 Docker (pp. 3849-3861)
-- [ ] **T373** Volume 6: Project 3 CI/CD (pp. 3863-3874)
+- [x] **T373** Volume 6: Project 3 CI/CD (pp. 3863-3874)
 - [ ] **T374** Volume 6: Project 4 Terraform (pp. 3875-3887)
 - [ ] **T375** Volume 6: Project 5 Kubernetes (pp. 3889-3901)
 - [ ] **T376** Volume 6: Project 6 Production Kubernetes (pp. 3903-3916)
