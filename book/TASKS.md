@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 94 of 389 done.
+Every page of the book is one task, with one commit and one push. 95 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -96,7 +96,7 @@ Every page of the book is one task, with one commit and one push. 94 of 389 done
 - [x] **T092** Volume 2: 4.2 Images and Layers (pp. 751-760)
 - [x] **T093** Volume 2: 4.3 Containers and Their Lifecycle (pp. 761-771)
 - [x] **T094** Volume 2: 4.4 Registries (pp. 773-783)
-- [ ] **T095** Volume 2: 4.5 Volumes and Bind Mounts (pp. 785-794)
+- [x] **T095** Volume 2: 4.5 Volumes and Bind Mounts (pp. 785-794)
 - [ ] **T096** Volume 2: 4.6 Docker Networks (pp. 795-804)
 - [ ] **T097** Volume 2: 4.7 Dockerfile (pp. 805-815)
 - [ ] **T098** Volume 2: 4.8 Docker Compose (pp. 817-828)
