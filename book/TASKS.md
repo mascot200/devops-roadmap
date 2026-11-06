@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 192 of 389 done.
+Every page of the book is one task, with one commit and one push. 193 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -194,7 +194,7 @@ Every page of the book is one task, with one commit and one push. 192 of 389 don
 - [x] **T190** Volume 3: 9.6 Packaging Applications for Kubernetes (pp. 1891-1904)
 - [x] **T191** Volume 3: Capstone 9 A production-ready Helm chart for shop-api (pp. 1905-1916)
 - [x] **T192** Volume 3: Part V See It, Secure It (pp. 1917-1917)
-- [ ] **T193** Volume 3: Level 10 Observability (pp. 1919-1920)
+- [x] **T193** Volume 3: Level 10 Observability (pp. 1919-1920)
 - [ ] **T194** Volume 3: 10.1 The Three Pillars: Metrics, Logs and Traces (pp. 1921-1932)
 - [ ] **T195** Volume 3: 10.2 Prometheus and PromQL (pp. 1933-1948)
 - [ ] **T196** Volume 3: 10.3 Grafana Dashboards (pp. 1949-1960)
