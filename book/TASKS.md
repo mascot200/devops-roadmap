@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 266 of 389 done.
+Every page of the book is one task, with one commit and one push. 267 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -268,7 +268,7 @@ Every page of the book is one task, with one commit and one push. 266 of 389 don
 - [x] **T264** Volume 4: Capstone 13 Postgres, Redis and Kafka under failure (pp. 2793-2813)
 - [x] **T265** Volume 4: back cover
 - [x] **T266** Volume 4: assemble the finished volume
-- [ ] **T267** Volume 4: print interior
+- [x] **T267** Volume 4: print interior
 - [ ] **T268** Volume 4: wraparound print cover
 - [ ] **T269** Volume 5: front cover
 - [ ] **T270** Volume 5: half title
