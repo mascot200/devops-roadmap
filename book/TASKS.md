@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 104 of 389 done.
+Every page of the book is one task, with one commit and one push. 105 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -106,7 +106,7 @@ Every page of the book is one task, with one commit and one push. 104 of 389 don
 - [x] **T102** Volume 2: 4.12 Health Checks (pp. 865-875)
 - [x] **T103** Volume 2: 4.13 Minimal Base Images (pp. 877-888)
 - [x] **T104** Volume 2: 4.14 Image Scanning and Container Security (pp. 889-901)
-- [ ] **T105** Volume 2: Capstone 4 Containerize shop-api with Docker Compose (pp. 903-930)
+- [x] **T105** Volume 2: Capstone 4 Containerize shop-api with Docker Compose (pp. 903-930)
 - [ ] **T106** Volume 2: Level 5 CI/CD (pp. 931-932)
 - [ ] **T107** Volume 2: 5.1 Designing a CI/CD Pipeline End to End (pp. 933-943)
 - [ ] **T108** Volume 2: 5.2 GitHub Actions for CI/CD (pp. 945-957)
