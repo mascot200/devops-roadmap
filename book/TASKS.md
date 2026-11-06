@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 306 of 389 done.
+Every page of the book is one task, with one commit and one push. 307 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -308,7 +308,7 @@ Every page of the book is one task, with one commit and one push. 306 of 389 don
 - [x] **T304** Volume 5: 16.3 Pod Security (pp. 3167-3178)
 - [x] **T305** Volume 5: 16.4 Operators (pp. 3179-3190)
 - [x] **T306** Volume 5: 16.5 Custom Resource Definitions (CRDs) (pp. 3191-3203)
-- [ ] **T307** Volume 5: 16.6 Admission Controllers and Webhooks (pp. 3205-3220)
+- [x] **T307** Volume 5: 16.6 Admission Controllers and Webhooks (pp. 3205-3220)
 - [ ] **T308** Volume 5: 16.7 HPA, VPA and Cluster Autoscaler (pp. 3221-3235)
 - [ ] **T309** Volume 5: 16.8 Stateful Workloads (pp. 3237-3250)
 - [ ] **T310** Volume 5: 16.9 Service Mesh with Istio or Linkerd (pp. 3251-3264)
