@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 153 of 389 done.
+Every page of the book is one task, with one commit and one push. 154 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -155,7 +155,7 @@ Every page of the book is one task, with one commit and one push. 153 of 389 don
 - [x] **T151** Volume 2: Capstone 7 shop-api on AWS with Terraform (pp. 1527-1544)
 - [x] **T152** Volume 2: back cover
 - [x] **T153** Volume 2: assemble the finished volume
-- [ ] **T154** Volume 2: print interior
+- [x] **T154** Volume 2: print interior
 - [ ] **T155** Volume 2: wraparound print cover
 - [ ] **T156** Volume 3: front cover
 - [ ] **T157** Volume 3: half title
