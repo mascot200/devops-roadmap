@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 241 of 389 done.
+Every page of the book is one task, with one commit and one push. 242 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -243,7 +243,7 @@ Every page of the book is one task, with one commit and one push. 241 of 389 don
 - [x] **T239** Volume 4: 12.7 CDNs (pp. 2415-2429)
 - [x] **T240** Volume 4: 12.8 VPNs (pp. 2431-2444)
 - [x] **T241** Volume 4: 12.9 Service Mesh (pp. 2445-2462)
-- [ ] **T242** Volume 4: 12.10 Connection Pooling (pp. 2463-2478)
+- [x] **T242** Volume 4: 12.10 Connection Pooling (pp. 2463-2478)
 - [ ] **T243** Volume 4: 12.11 TLS Termination (pp. 2479-2495)
 - [ ] **T244** Volume 4: 12.12 mTLS (pp. 2497-2511)
 - [ ] **T245** Volume 4: 12.13 Rate Limiting (pp. 2513-2531)
