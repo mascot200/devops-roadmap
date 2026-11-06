@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 169 of 389 done.
+Every page of the book is one task, with one commit and one push. 170 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -171,7 +171,7 @@ Every page of the book is one task, with one commit and one push. 169 of 389 don
 - [x] **T167** Volume 3: 8.4 Services (pp. 1589-1599)
 - [x] **T168** Volume 3: 8.5 Ingress (pp. 1601-1614)
 - [x] **T169** Volume 3: 8.6 ConfigMaps (pp. 1615-1624)
-- [ ] **T170** Volume 3: 8.7 Secrets (pp. 1625-1637)
+- [x] **T170** Volume 3: 8.7 Secrets (pp. 1625-1637)
 - [ ] **T171** Volume 3: 8.8 Namespaces (pp. 1639-1651)
 - [ ] **T172** Volume 3: 8.9 Volumes, PersistentVolumes and PersistentVolumeClaims (pp. 1653-1665)
 - [ ] **T173** Volume 3: 8.10 StatefulSets (pp. 1667-1678)
