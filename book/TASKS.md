@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 199 of 389 done.
+Every page of the book is one task, with one commit and one push. 200 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -201,7 +201,7 @@ Every page of the book is one task, with one commit and one push. 199 of 389 don
 - [x] **T197** Volume 3: 10.4 Counters, Gauges, Histograms and Summaries (pp. 1961-1974)
 - [x] **T198** Volume 3: 10.5 Structured Logging (pp. 1975-1987)
 - [x] **T199** Volume 3: 10.6 Log Aggregation with Loki (pp. 1989-2003)
-- [ ] **T200** Volume 3: 10.7 Correlation IDs and Request IDs (pp. 2005-2020)
+- [x] **T200** Volume 3: 10.7 Correlation IDs and Request IDs (pp. 2005-2020)
 - [ ] **T201** Volume 3: 10.8 Distributed Tracing (pp. 2021-2033)
 - [ ] **T202** Volume 3: 10.9 OpenTelemetry (pp. 2035-2053)
 - [ ] **T203** Volume 3: 10.10 Sentry (pp. 2055-2071)
