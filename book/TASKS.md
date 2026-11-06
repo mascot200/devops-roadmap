@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 196 of 389 done.
+Every page of the book is one task, with one commit and one push. 197 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -198,7 +198,7 @@ Every page of the book is one task, with one commit and one push. 196 of 389 don
 - [x] **T194** Volume 3: 10.1 The Three Pillars: Metrics, Logs and Traces (pp. 1921-1932)
 - [x] **T195** Volume 3: 10.2 Prometheus and PromQL (pp. 1933-1948)
 - [x] **T196** Volume 3: 10.3 Grafana Dashboards (pp. 1949-1960)
-- [ ] **T197** Volume 3: 10.4 Counters, Gauges, Histograms and Summaries (pp. 1961-1974)
+- [x] **T197** Volume 3: 10.4 Counters, Gauges, Histograms and Summaries (pp. 1961-1974)
 - [ ] **T198** Volume 3: 10.5 Structured Logging (pp. 1975-1987)
 - [ ] **T199** Volume 3: 10.6 Log Aggregation with Loki (pp. 1989-2003)
 - [ ] **T200** Volume 3: 10.7 Correlation IDs and Request IDs (pp. 2005-2020)
