@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 182 of 389 done.
+Every page of the book is one task, with one commit and one push. 183 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -184,7 +184,7 @@ Every page of the book is one task, with one commit and one push. 182 of 389 don
 - [x] **T180** Volume 3: 8.17 Service Discovery (pp. 1753-1764)
 - [x] **T181** Volume 3: 8.18 RBAC (pp. 1765-1777)
 - [x] **T182** Volume 3: 8.19 NetworkPolicies (pp. 1779-1793)
-- [ ] **T183** Volume 3: Capstone 8 shop-api on Kubernetes (pp. 1795-1822)
+- [x] **T183** Volume 3: Capstone 8 shop-api on Kubernetes (pp. 1795-1822)
 - [ ] **T184** Volume 3: Level 9 Helm (pp. 1823-1824)
 - [ ] **T185** Volume 3: 9.1 Charts (pp. 1825-1835)
 - [ ] **T186** Volume 3: 9.2 Values (pp. 1837-1847)
