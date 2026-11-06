@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 150 of 389 done.
+Every page of the book is one task, with one commit and one push. 151 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -152,7 +152,7 @@ Every page of the book is one task, with one commit and one push. 150 of 389 don
 - [x] **T148** Volume 2: 7.7 Terraform CI/CD (pp. 1485-1498)
 - [x] **T149** Volume 2: 7.8 State Locking (pp. 1499-1511)
 - [x] **T150** Volume 2: 7.9 Drift Detection (pp. 1513-1526)
-- [ ] **T151** Volume 2: Capstone 7 shop-api on AWS with Terraform (pp. 1527-1544)
+- [x] **T151** Volume 2: Capstone 7 shop-api on AWS with Terraform (pp. 1527-1544)
 - [ ] **T152** Volume 2: back cover
 - [ ] **T153** Volume 2: assemble the finished volume
 - [ ] **T154** Volume 2: print interior
