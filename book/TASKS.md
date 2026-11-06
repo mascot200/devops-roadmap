@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 323 of 389 done.
+Every page of the book is one task, with one commit and one push. 324 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -325,7 +325,7 @@ Every page of the book is one task, with one commit and one push. 323 of 389 don
 - [x] **T321** Volume 5: Capstone 17 GitOps Delivery for shop-api (pp. 3389-3402)
 - [x] **T322** Volume 5: Level 18 Platform Engineering (pp. 3403-3404)
 - [x] **T323** Volume 5: 18.1 Internal Developer Platforms (pp. 3405-3414)
-- [ ] **T324** Volume 5: 18.2 Developer Portals (pp. 3415-3425)
+- [x] **T324** Volume 5: 18.2 Developer Portals (pp. 3415-3425)
 - [ ] **T325** Volume 5: 18.3 Self-service Infrastructure (pp. 3427-3437)
 - [ ] **T326** Volume 5: 18.4 Golden Paths (pp. 3439-3450)
 - [ ] **T327** Volume 5: 18.5 Service Catalogs (pp. 3451-3462)
