@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 250 of 389 done.
+Every page of the book is one task, with one commit and one push. 251 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -252,7 +252,7 @@ Every page of the book is one task, with one commit and one push. 250 of 389 don
 - [x] **T248** Volume 4: Level 13 Databases & Distributed Systems (pp. 2577-2578)
 - [x] **T249** Volume 4: 13.1 PostgreSQL Indexes (pp. 2579-2592)
 - [x] **T250** Volume 4: 13.2 Transactions and Locks (pp. 2593-2605)
-- [ ] **T251** Volume 4: 13.3 MVCC (pp. 2607-2622)
+- [x] **T251** Volume 4: 13.3 MVCC (pp. 2607-2622)
 - [ ] **T252** Volume 4: 13.4 Replication (pp. 2623-2638)
 - [ ] **T253** Volume 4: 13.5 Backups and Point-in-Time Recovery (pp. 2639-2653)
 - [ ] **T254** Volume 4: 13.6 Database Connection Pooling (pp. 2655-2668)
