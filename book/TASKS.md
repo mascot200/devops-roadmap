@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 291 of 389 done.
+Every page of the book is one task, with one commit and one push. 292 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -293,7 +293,7 @@ Every page of the book is one task, with one commit and one push. 291 of 389 don
 - [x] **T289** Volume 5: 15.1 Backups (pp. 2985-2996)
 - [x] **T290** Volume 5: 15.2 Replication (pp. 2997-3006)
 - [x] **T291** Volume 5: 15.3 Snapshots (pp. 3007-3017)
-- [ ] **T292** Volume 5: 15.4 Restore Procedures (pp. 3019-3031)
+- [x] **T292** Volume 5: 15.4 Restore Procedures (pp. 3019-3031)
 - [ ] **T293** Volume 5: 15.5 Failover (pp. 3033-3046)
 - [ ] **T294** Volume 5: 15.6 RPO - Recovery Point Objective (pp. 3047-3058)
 - [ ] **T295** Volume 5: 15.7 RTO - Recovery Time Objective (pp. 3059-3071)
