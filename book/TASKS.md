@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 38 of 389 done.
+Every page of the book is one task, with one commit and one push. 39 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -40,7 +40,7 @@ Every page of the book is one task, with one commit and one push. 38 of 389 done
 - [x] **T036** Volume 1: 1.2 Navigating and Managing Files (pp. 225-235)
 - [x] **T037** Volume 1: 1.3 Viewing and Searching Text (pp. 237-248)
 - [x] **T038** Volume 1: 1.4 Text Processing with awk and sed (pp. 249-259)
-- [ ] **T039** Volume 1: 1.5 Network and Transfer Commands (pp. 261-272)
+- [x] **T039** Volume 1: 1.5 Network and Transfer Commands (pp. 261-272)
 - [ ] **T040** Volume 1: 1.6 File Permissions: chmod and chown (pp. 273-284)
 - [ ] **T041** Volume 1: 1.7 Users, Groups, sudo and root (pp. 285-296)
 - [ ] **T042** Volume 1: 1.8 Processes, PIDs and Signals (pp. 297-308)
