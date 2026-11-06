@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 359 of 389 done.
+Every page of the book is one task, with one commit and one push. 360 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -361,7 +361,7 @@ Every page of the book is one task, with one commit and one push. 359 of 389 don
 - [x] **T357** Volume 6: Capstone 19 Design the Reference Production Architecture (pp. 3689-3701)
 - [x] **T358** Volume 6: Level 20 Cost Optimization (pp. 3703-3704)
 - [x] **T359** Volume 6: 20.1 FinOps (pp. 3705-3716)
-- [ ] **T360** Volume 6: 20.2 Reserved Instances and Savings Plans (pp. 3717-3727)
+- [x] **T360** Volume 6: 20.2 Reserved Instances and Savings Plans (pp. 3717-3727)
 - [ ] **T361** Volume 6: 20.3 Spot Instances (pp. 3729-3742)
 - [ ] **T362** Volume 6: 20.4 Autoscaling for Cost (pp. 3743-3754)
 - [ ] **T363** Volume 6: 20.5 Rightsizing (pp. 3755-3766)
