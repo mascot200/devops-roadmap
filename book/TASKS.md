@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 382 of 389 done.
+Every page of the book is one task, with one commit and one push. 383 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -384,7 +384,7 @@ Every page of the book is one task, with one commit and one push. 382 of 389 don
 - [x] **T380** Volume 6: Appendices The Back of the Pack (pp. 3957-3957)
 - [x] **T381** Volume 6: Appendix A Topic Template (pp. 3959-3961)
 - [x] **T382** Volume 6: Appendix B Captions for the DevOps Roadmap posts (pp. 3963-3965)
-- [ ] **T383** Volume 6: Appendix C DevOps Roadmap carousel (pp. 3967-3970)
+- [x] **T383** Volume 6: Appendix C DevOps Roadmap carousel (pp. 3967-3970)
 - [ ] **T384** Volume 6: Appendix D MIT License (pp. 3971-3971)
 - [ ] **T385** Index
 - [ ] **T386** Volume 6: back cover
