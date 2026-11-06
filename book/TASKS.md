@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 45 of 389 done.
+Every page of the book is one task, with one commit and one push. 46 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -47,7 +47,7 @@ Every page of the book is one task, with one commit and one push. 45 of 389 done
 - [x] **T043** Volume 1: 1.9 Daemons and systemd (pp. 309-321)
 - [x] **T044** Volume 1: 1.10 System Monitoring Commands (pp. 323-334)
 - [x] **T045** Volume 1: 1.11 Services and Logs: systemctl and journalctl (pp. 335-347)
-- [ ] **T046** Volume 1: 1.12 SSH Keys, known_hosts and authorized_keys (pp. 349-362)
+- [x] **T046** Volume 1: 1.12 SSH Keys, known_hosts and authorized_keys (pp. 349-362)
 - [ ] **T047** Volume 1: 1.13 ssh-agent and Port Forwarding (pp. 363-375)
 - [ ] **T048** Volume 1: Capstone 1 Deploy shop-api on a VPS by hand (pp. 377-395)
 - [ ] **T049** Volume 1: Level 2 Networking (pp. 397-398)
