@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 361 of 389 done.
+Every page of the book is one task, with one commit and one push. 362 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -363,7 +363,7 @@ Every page of the book is one task, with one commit and one push. 361 of 389 don
 - [x] **T359** Volume 6: 20.1 FinOps (pp. 3705-3716)
 - [x] **T360** Volume 6: 20.2 Reserved Instances and Savings Plans (pp. 3717-3727)
 - [x] **T361** Volume 6: 20.3 Spot Instances (pp. 3729-3742)
-- [ ] **T362** Volume 6: 20.4 Autoscaling for Cost (pp. 3743-3754)
+- [x] **T362** Volume 6: 20.4 Autoscaling for Cost (pp. 3743-3754)
 - [ ] **T363** Volume 6: 20.5 Rightsizing (pp. 3755-3766)
 - [ ] **T364** Volume 6: 20.6 Storage Lifecycle Policies (pp. 3767-3778)
 - [ ] **T365** Volume 6: 20.7 Network Egress Costs (pp. 3779-3790)
