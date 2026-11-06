@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 75 of 389 done.
+Every page of the book is one task, with one commit and one push. 76 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -77,7 +77,7 @@ Every page of the book is one task, with one commit and one push. 75 of 389 done
 - [x] **T073** Volume 1: 3.11 GitHub Actions: Workflows, Jobs and Triggers (pp. 677-689)
 - [x] **T074** Volume 1: 3.12 GitHub Environments and Secrets (pp. 691-703)
 - [x] **T075** Volume 1: 3.13 Artifacts and Runners (pp. 705-717)
-- [ ] **T076** Volume 1: Capstone 3 Protected `main`, PR checks and tag-driven releases (pp. 719-733)
+- [x] **T076** Volume 1: Capstone 3 Protected `main`, PR checks and tag-driven releases (pp. 719-733)
 - [ ] **T077** About the Author
 - [ ] **T078** Colophon
 - [ ] **T079** Volume 1: back cover
