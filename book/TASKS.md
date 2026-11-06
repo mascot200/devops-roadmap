@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 147 of 389 done.
+Every page of the book is one task, with one commit and one push. 148 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -149,7 +149,7 @@ Every page of the book is one task, with one commit and one push. 147 of 389 don
 - [x] **T145** Volume 2: 7.4 State and Remote Backends (pp. 1443-1455)
 - [x] **T146** Volume 2: 7.5 Data Sources and Dependencies (pp. 1457-1469)
 - [x] **T147** Volume 2: 7.6 Reusable Environments (pp. 1471-1483)
-- [ ] **T148** Volume 2: 7.7 Terraform CI/CD (pp. 1485-1498)
+- [x] **T148** Volume 2: 7.7 Terraform CI/CD (pp. 1485-1498)
 - [ ] **T149** Volume 2: 7.8 State Locking (pp. 1499-1511)
 - [ ] **T150** Volume 2: 7.9 Drift Detection (pp. 1513-1526)
 - [ ] **T151** Volume 2: Capstone 7 shop-api on AWS with Terraform (pp. 1527-1544)
