@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 202 of 389 done.
+Every page of the book is one task, with one commit and one push. 203 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -204,7 +204,7 @@ Every page of the book is one task, with one commit and one push. 202 of 389 don
 - [x] **T200** Volume 3: 10.7 Correlation IDs and Request IDs (pp. 2005-2020)
 - [x] **T201** Volume 3: 10.8 Distributed Tracing (pp. 2021-2033)
 - [x] **T202** Volume 3: 10.9 OpenTelemetry (pp. 2035-2053)
-- [ ] **T203** Volume 3: 10.10 Sentry (pp. 2055-2071)
+- [x] **T203** Volume 3: 10.10 Sentry (pp. 2055-2071)
 - [ ] **T204** Volume 3: 10.11 What to Monitor: Golden Signals, RED and USE (pp. 2073-2089)
 - [ ] **T205** Volume 3: Capstone 10 Observable shop-api (pp. 2091-2122)
 - [ ] **T206** Volume 3: Level 11 Security / DevSecOps (pp. 2123-2124)
