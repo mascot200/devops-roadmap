@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 355 of 389 done.
+Every page of the book is one task, with one commit and one push. 356 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -357,7 +357,7 @@ Every page of the book is one task, with one commit and one push. 355 of 389 don
 - [x] **T353** Volume 6: 19.8 Monitoring (pp. 3635-3647)
 - [x] **T354** Volume 6: 19.9 Disaster Recovery (pp. 3649-3659)
 - [x] **T355** Volume 6: 19.10 Reference Production Architecture Walkthrough (pp. 3661-3676)
-- [ ] **T356** Volume 6: 19.11 Trade-offs and Architecture Decision Records (pp. 3677-3688)
+- [x] **T356** Volume 6: 19.11 Trade-offs and Architecture Decision Records (pp. 3677-3688)
 - [ ] **T357** Volume 6: Capstone 19 Design the Reference Production Architecture (pp. 3689-3701)
 - [ ] **T358** Volume 6: Level 20 Cost Optimization (pp. 3703-3704)
 - [ ] **T359** Volume 6: 20.1 FinOps (pp. 3705-3716)
