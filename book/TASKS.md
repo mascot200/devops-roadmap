@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 51 of 389 done.
+Every page of the book is one task, with one commit and one push. 52 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -53,7 +53,7 @@ Every page of the book is one task, with one commit and one push. 51 of 389 done
 - [x] **T049** Volume 1: Level 2 Networking (pp. 397-398)
 - [x] **T050** Volume 1: 2.1 IP, MAC, ARP and DHCP (pp. 399-409)
 - [x] **T051** Volume 1: 2.2 TCP, UDP and ICMP (pp. 411-421)
-- [ ] **T052** Volume 1: 2.3 IPv4, IPv6, CIDR and Subnets (pp. 423-433)
+- [x] **T052** Volume 1: 2.3 IPv4, IPv6, CIDR and Subnets (pp. 423-433)
 - [ ] **T053** Volume 1: 2.4 Routing, NAT, Ports and Firewalls (pp. 435-447)
 - [ ] **T054** Volume 1: 2.5 DNS Resolution and Domain Architecture (pp. 449-460)
 - [ ] **T055** Volume 1: 2.6 TCP Connections and TLS Handshakes (pp. 461-474)
