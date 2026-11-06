@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 346 of 389 done.
+Every page of the book is one task, with one commit and one push. 347 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -348,7 +348,7 @@ Every page of the book is one task, with one commit and one push. 346 of 389 don
 - [x] **T344** Volume 6: Part IX Senior Altitude (pp. 3549-3549)
 - [x] **T345** Volume 6: Level 19 Architecture (pp. 3551-3552)
 - [x] **T346** Volume 6: 19.1 Scalability (pp. 3553-3563)
-- [ ] **T347** Volume 6: 19.2 Availability (pp. 3565-3575)
+- [x] **T347** Volume 6: 19.2 Availability (pp. 3565-3575)
 - [ ] **T348** Volume 6: 19.3 Security Architecture (pp. 3577-3587)
 - [ ] **T349** Volume 6: 19.4 Performance (pp. 3589-3599)
 - [ ] **T350** Volume 6: 19.5 Cost (pp. 3601-3610)
