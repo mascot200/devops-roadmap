@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 142 of 389 done.
+Every page of the book is one task, with one commit and one push. 143 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -144,7 +144,7 @@ Every page of the book is one task, with one commit and one push. 142 of 389 don
 - [x] **T140** Volume 2: Capstone 6 shop-api on CloudFront, ALB, EC2, Redis, RDS and S3 (pp. 1383-1402)
 - [x] **T141** Volume 2: Level 7 Terraform / Infrastructure as Code (pp. 1403-1404)
 - [x] **T142** Volume 2: 7.1 Providers and Resources (pp. 1405-1417)
-- [ ] **T143** Volume 2: 7.2 Variables and Outputs (pp. 1419-1429)
+- [x] **T143** Volume 2: 7.2 Variables and Outputs (pp. 1419-1429)
 - [ ] **T144** Volume 2: 7.3 Modules (pp. 1431-1441)
 - [ ] **T145** Volume 2: 7.4 State and Remote Backends (pp. 1443-1455)
 - [ ] **T146** Volume 2: 7.5 Data Sources and Dependencies (pp. 1457-1469)
