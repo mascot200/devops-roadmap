@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 112 of 389 done.
+Every page of the book is one task, with one commit and one push. 113 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -114,7 +114,7 @@ Every page of the book is one task, with one commit and one push. 112 of 389 don
 - [x] **T110** Volume 2: 5.4 Docker Image Builds and Registries in CI (pp. 971-985)
 - [x] **T111** Volume 2: 5.5 Secrets and Environment Variables (pp. 987-1001)
 - [x] **T112** Volume 2: 5.6 Build Artifacts (pp. 1003-1017)
-- [ ] **T113** Volume 2: 5.7 Rollback (pp. 1019-1032)
+- [x] **T113** Volume 2: 5.7 Rollback (pp. 1019-1032)
 - [ ] **T114** Volume 2: 5.8 Zero-downtime Deployments (pp. 1033-1047)
 - [ ] **T115** Volume 2: 5.9 Database Migrations in Pipelines (pp. 1049-1065)
 - [ ] **T116** Volume 2: 5.10 Rolling Deployments (pp. 1067-1080)
