@@ -11,16 +11,24 @@ The whole of this repository, typeset as a six-volume book by Ubong Eduok.
 | 5 | Reliability and Platforms at Scale | Parts VII, VIII: SRE, Disaster Recovery, Advanced Kubernetes, GitOps, Platform Engineering | 748 |
 | 6 | Senior Altitude and the Summit | Parts IX, X, Appendices, Index: Architecture, Cost, the Nine Projects | 460 |
 
-## What is where
+## Get the PDFs
+
+All PDFs are attached to the **[book-v1.0 Release](https://github.com/mascot200/devops-roadmap/releases/tag/book-v1.0)**, not stored in Git, so cloning this repository stays fast.
+
+| Release file | What it is |
+|--------------|------------|
+| `The-Production-Ready-Engineer-Volume-N-*.pdf` | The six volumes to read and share, with front and back covers |
+| `Volume-N-interior.pdf` | Print interiors: 7.5 x 9.25 in, no bleed, even page count, no covers |
+| `Volume-N-cover.pdf` | Wraparound print covers: back, spine and front, with 0.125 in bleed |
+| `The-Production-Ready-Engineer-Pages.zip` | Every book page as its own PDF, at the same path as its source file in the repository |
+
+## What is in this folder
 
 | Path | What it is |
 |------|------------|
-| `dist/*.pdf` | The six volumes to read and share, with front and back covers |
-| `dist/print/Volume-N-interior.pdf` | Print interiors: 7.5 x 9.25 in, no bleed, even page count, no covers |
-| `dist/print/Volume-N-cover.pdf` | Wraparound print covers: back, spine and front, with 0.125 in bleed |
-| `pages/` | Every book page as its own PDF, at the same path as its source file in the repository |
 | `TASKS.md` | The task list for this book: one task, one commit, one push |
 | `src/` | The typesetting toolchain |
+| `pages/`, `dist/` | Created by a build and ignored by Git |
 
 ## Before you print
 
@@ -31,7 +39,7 @@ The whole of this repository, typeset as a six-volume book by Ubong Eduok.
 
 ## Rebuild
 
-Needs Google Chrome and Node.js. A full build takes a few minutes.
+Needs Google Chrome and Node.js. A full build takes a few minutes and writes its PDFs to `dist/` and `pages/`. To publish a new edition, attach those files to a new Release.
 
 ```bash
 cd book

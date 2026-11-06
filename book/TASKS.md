@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 389 of 389 done.
+Every page of the book is one task, with one commit. 389 of 389 done. The PDF each task produced is attached to the [book-v1.0 Release](https://github.com/mascot200/devops-roadmap/releases/tag/book-v1.0).
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
