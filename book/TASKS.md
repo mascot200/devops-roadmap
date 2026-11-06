@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 301 of 389 done.
+Every page of the book is one task, with one commit and one push. 302 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -303,7 +303,7 @@ Every page of the book is one task, with one commit and one push. 301 of 389 don
 - [x] **T299** Volume 5: Capstone 15 Break It, Time It, Write the Plan (pp. 3121-3134)
 - [x] **T300** Volume 5: Part VIII Platforms at Scale (pp. 3135-3135)
 - [x] **T301** Volume 5: Level 16 Advanced Kubernetes (pp. 3137-3138)
-- [ ] **T302** Volume 5: 16.1 RBAC in Depth (pp. 3139-3152)
+- [x] **T302** Volume 5: 16.1 RBAC in Depth (pp. 3139-3152)
 - [ ] **T303** Volume 5: 16.2 NetworkPolicies in Depth (pp. 3153-3166)
 - [ ] **T304** Volume 5: 16.3 Pod Security (pp. 3167-3178)
 - [ ] **T305** Volume 5: 16.4 Operators (pp. 3179-3190)
