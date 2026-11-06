@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 351 of 389 done.
+Every page of the book is one task, with one commit and one push. 352 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -353,7 +353,7 @@ Every page of the book is one task, with one commit and one push. 351 of 389 don
 - [x] **T349** Volume 6: 19.4 Performance (pp. 3589-3599)
 - [x] **T350** Volume 6: 19.5 Cost (pp. 3601-3610)
 - [x] **T351** Volume 6: 19.6 Operational Complexity (pp. 3611-3621)
-- [ ] **T352** Volume 6: 19.7 Deployment Strategy (pp. 3623-3633)
+- [x] **T352** Volume 6: 19.7 Deployment Strategy (pp. 3623-3633)
 - [ ] **T353** Volume 6: 19.8 Monitoring (pp. 3635-3647)
 - [ ] **T354** Volume 6: 19.9 Disaster Recovery (pp. 3649-3659)
 - [ ] **T355** Volume 6: 19.10 Reference Production Architecture Walkthrough (pp. 3661-3676)
