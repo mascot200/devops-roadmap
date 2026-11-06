@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 34 of 389 done.
+Every page of the book is one task, with one commit and one push. 35 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -36,7 +36,7 @@ Every page of the book is one task, with one commit and one push. 34 of 389 done
 - [x] **T032** Volume 1: 0.13 Platform Engineering (pp. 185-198)
 - [x] **T033** Volume 1: Capstone 0 Lifecycle Map of a Real Open-Source Project (pp. 199-212)
 - [x] **T034** Volume 1: Level 1 Linux Fundamentals (pp. 213-214)
-- [ ] **T035** Volume 1: 1.1 Linux Filesystem Hierarchy (pp. 215-223)
+- [x] **T035** Volume 1: 1.1 Linux Filesystem Hierarchy (pp. 215-223)
 - [ ] **T036** Volume 1: 1.2 Navigating and Managing Files (pp. 225-235)
 - [ ] **T037** Volume 1: 1.3 Viewing and Searching Text (pp. 237-248)
 - [ ] **T038** Volume 1: 1.4 Text Processing with awk and sed (pp. 249-259)
