@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 116 of 389 done.
+Every page of the book is one task, with one commit and one push. 117 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -118,7 +118,7 @@ Every page of the book is one task, with one commit and one push. 116 of 389 don
 - [x] **T114** Volume 2: 5.8 Zero-downtime Deployments (pp. 1033-1047)
 - [x] **T115** Volume 2: 5.9 Database Migrations in Pipelines (pp. 1049-1065)
 - [x] **T116** Volume 2: 5.10 Rolling Deployments (pp. 1067-1080)
-- [ ] **T117** Volume 2: 5.11 Blue/Green Deployments (pp. 1081-1093)
+- [x] **T117** Volume 2: 5.11 Blue/Green Deployments (pp. 1081-1093)
 - [ ] **T118** Volume 2: 5.12 Canary Deployments (pp. 1095-1110)
 - [ ] **T119** Volume 2: Capstone 5 Push-to-Production Pipeline for shop-api (pp. 1111-1133)
 - [ ] **T120** Volume 2: Part III Cloud You Can Rebuild (pp. 1135-1135)
