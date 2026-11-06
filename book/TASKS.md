@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 58 of 389 done.
+Every page of the book is one task, with one commit and one push. 59 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -60,7 +60,7 @@ Every page of the book is one task, with one commit and one push. 58 of 389 done
 - [x] **T056** Volume 1: 2.7 HTTP Methods and Status Codes (pp. 475-488)
 - [x] **T057** Volume 1: 2.8 Reverse Proxies and Load Balancers (pp. 489-502)
 - [x] **T058** Volume 1: 2.9 L4 versus L7 Load Balancing (pp. 503-515)
-- [ ] **T059** Volume 1: 2.10 Network Debugging Tools (pp. 517-530)
+- [x] **T059** Volume 1: 2.10 Network Debugging Tools (pp. 517-530)
 - [ ] **T060** Volume 1: 2.11 What Happens When You Visit https://example.com (pp. 531-547)
 - [ ] **T061** Volume 1: Capstone 2 Trace a full HTTPS request end to end (pp. 549-561)
 - [ ] **T062** Volume 1: Level 3 Git & GitHub (pp. 563-564)
