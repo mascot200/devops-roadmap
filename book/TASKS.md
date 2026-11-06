@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 216 of 389 done.
+Every page of the book is one task, with one commit and one push. 217 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -218,7 +218,7 @@ Every page of the book is one task, with one commit and one push. 216 of 389 don
 - [x] **T214** Volume 3: 11.8 API Security (pp. 2217-2229)
 - [x] **T215** Volume 3: 11.9 Container Image Scanning (Trivy) (pp. 2231-2243)
 - [x] **T216** Volume 3: 11.10 Dependency Scanning (Snyk, Dependabot) (pp. 2245-2256)
-- [ ] **T217** Volume 3: 11.11 Secrets Scanning (pp. 2257-2269)
+- [x] **T217** Volume 3: 11.11 Secrets Scanning (pp. 2257-2269)
 - [ ] **T218** Volume 3: 11.12 Rootless and Minimal Containers (pp. 2271-2284)
 - [ ] **T219** Volume 3: 11.13 Dynamic Testing with OWASP ZAP (pp. 2285-2297)
 - [ ] **T220** Volume 3: Capstone 11 Harden shop-api end to end, with security gates in CI (pp. 2299-2318)
