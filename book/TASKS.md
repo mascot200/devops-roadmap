@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 125 of 389 done.
+Every page of the book is one task, with one commit and one push. 126 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -127,7 +127,7 @@ Every page of the book is one task, with one commit and one push. 125 of 389 don
 - [x] **T123** Volume 2: 6.2 Auto Scaling (pp. 1155-1166)
 - [x] **T124** Volume 2: 6.3 Lambda (pp. 1167-1178)
 - [x] **T125** Volume 2: 6.4 VPC and Subnets (pp. 1179-1189)
-- [ ] **T126** Volume 2: 6.5 Route Tables, Internet Gateway and NAT Gateway (pp. 1191-1202)
+- [x] **T126** Volume 2: 6.5 Route Tables, Internet Gateway and NAT Gateway (pp. 1191-1202)
 - [ ] **T127** Volume 2: 6.6 Security Groups and Network ACLs (pp. 1203-1215)
 - [ ] **T128** Volume 2: 6.7 IAM (pp. 1217-1230)
 - [ ] **T129** Volume 2: 6.8 S3 (pp. 1231-1243)
