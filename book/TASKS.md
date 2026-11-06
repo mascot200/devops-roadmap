@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 209 of 389 done.
+Every page of the book is one task, with one commit and one push. 210 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -211,7 +211,7 @@ Every page of the book is one task, with one commit and one push. 209 of 389 don
 - [x] **T207** Volume 3: 11.1 Linux Security and SSH Hardening (pp. 2125-2136)
 - [x] **T208** Volume 3: 11.2 Least-privilege IAM (pp. 2137-2150)
 - [x] **T209** Volume 3: 11.3 Cloud Security Groups and Policies (pp. 2151-2163)
-- [ ] **T210** Volume 3: 11.4 Secrets Management and Encryption (pp. 2165-2176)
+- [x] **T210** Volume 3: 11.4 Secrets Management and Encryption (pp. 2165-2176)
 - [ ] **T211** Volume 3: 11.5 OWASP Top 10 (pp. 2177-2190)
 - [ ] **T212** Volume 3: 11.6 Authentication and Authorization (pp. 2191-2202)
 - [ ] **T213** Volume 3: 11.7 JWT and OAuth (pp. 2203-2215)
