@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 255 of 389 done.
+Every page of the book is one task, with one commit and one push. 256 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -257,7 +257,7 @@ Every page of the book is one task, with one commit and one push. 255 of 389 don
 - [x] **T253** Volume 4: 13.5 Backups and Point-in-Time Recovery (pp. 2639-2653)
 - [x] **T254** Volume 4: 13.6 Database Connection Pooling (pp. 2655-2668)
 - [x] **T255** Volume 4: 13.7 Redis (pp. 2669-2683)
-- [ ] **T256** Volume 4: 13.8 Kafka (pp. 2685-2700)
+- [x] **T256** Volume 4: 13.8 Kafka (pp. 2685-2700)
 - [ ] **T257** Volume 4: 13.9 RabbitMQ (pp. 2701-2713)
 - [ ] **T258** Volume 4: 13.10 Horizontal and Vertical Scaling (pp. 2715-2726)
 - [ ] **T259** Volume 4: 13.11 Partitioning and Sharding (pp. 2727-2738)
