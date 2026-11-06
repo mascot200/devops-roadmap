@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 26 of 389 done.
+Every page of the book is one task, with one commit and one push. 27 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -28,7 +28,7 @@ Every page of the book is one task, with one commit and one push. 26 of 389 done
 - [x] **T024** Volume 1: 0.5 Immutable Infrastructure (pp. 87-96)
 - [x] **T025** Volume 1: 0.6 Infrastructure Automation (pp. 97-108)
 - [x] **T026** Volume 1: 0.7 Deployment Strategies (pp. 109-120)
-- [ ] **T027** Volume 1: 0.8 High Availability and Scalability (pp. 121-133)
+- [x] **T027** Volume 1: 0.8 High Availability and Scalability (pp. 121-133)
 - [ ] **T028** Volume 1: 0.9 Disaster Recovery (pp. 135-146)
 - [ ] **T029** Volume 1: 0.10 Observability (pp. 147-159)
 - [ ] **T030** Volume 1: 0.11 Site Reliability Engineering (pp. 161-172)
