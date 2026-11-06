@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 308 of 389 done.
+Every page of the book is one task, with one commit and one push. 309 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -310,7 +310,7 @@ Every page of the book is one task, with one commit and one push. 308 of 389 don
 - [x] **T306** Volume 5: 16.5 Custom Resource Definitions (CRDs) (pp. 3191-3203)
 - [x] **T307** Volume 5: 16.6 Admission Controllers and Webhooks (pp. 3205-3220)
 - [x] **T308** Volume 5: 16.7 HPA, VPA and Cluster Autoscaler (pp. 3221-3235)
-- [ ] **T309** Volume 5: 16.8 Stateful Workloads (pp. 3237-3250)
+- [x] **T309** Volume 5: 16.8 Stateful Workloads (pp. 3237-3250)
 - [ ] **T310** Volume 5: 16.9 Service Mesh with Istio or Linkerd (pp. 3251-3264)
 - [ ] **T311** Volume 5: 16.10 Mesh: mTLS, Routing, Retries, Timeouts, Circuit Breaking and Observability (pp. 3265-3281)
 - [ ] **T312** Volume 5: Capstone 16 Harden a kind/EKS Cluster (pp. 3283-3302)
