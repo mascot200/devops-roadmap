@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 330 of 389 done.
+Every page of the book is one task, with one commit and one push. 331 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -332,7 +332,7 @@ Every page of the book is one task, with one commit and one push. 330 of 389 don
 - [x] **T328** Volume 5: 18.6 Infrastructure Templates (pp. 3463-3474)
 - [x] **T329** Volume 5: 18.7 Policy as Code (pp. 3475-3490)
 - [x] **T330** Volume 5: 18.8 Backstage (pp. 3491-3504)
-- [ ] **T331** Volume 5: 18.9 Crossplane (pp. 3505-3519)
+- [x] **T331** Volume 5: 18.9 Crossplane (pp. 3505-3519)
 - [ ] **T332** Volume 5: 18.10 Integrating Argo CD, Terraform and Kubernetes into a Platform (pp. 3521-3534)
 - [ ] **T333** Volume 5: Capstone 18 A Mini Internal Developer Platform (pp. 3535-3548)
 - [ ] **T334** Volume 5: back cover
