@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 162 of 389 done.
+Every page of the book is one task, with one commit and one push. 163 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -164,7 +164,7 @@ Every page of the book is one task, with one commit and one push. 162 of 389 don
 - [x] **T160** Volume 3: copyright page
 - [x] **T161** Volume 3: contents
 - [x] **T162** Volume 3: Part IV Orchestration (pp. 1545-1545)
-- [ ] **T163** Volume 3: Level 8 Kubernetes (pp. 1547-1549)
+- [x] **T163** Volume 3: Level 8 Kubernetes (pp. 1547-1549)
 - [ ] **T164** Volume 3: 8.1 Cluster, Nodes and Control Plane (pp. 1551-1562)
 - [ ] **T165** Volume 3: 8.2 Pods (pp. 1563-1575)
 - [ ] **T166** Volume 3: 8.3 Deployments and ReplicaSets (pp. 1577-1587)
