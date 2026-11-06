@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 128 of 389 done.
+Every page of the book is one task, with one commit and one push. 129 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -130,7 +130,7 @@ Every page of the book is one task, with one commit and one push. 128 of 389 don
 - [x] **T126** Volume 2: 6.5 Route Tables, Internet Gateway and NAT Gateway (pp. 1191-1202)
 - [x] **T127** Volume 2: 6.6 Security Groups and Network ACLs (pp. 1203-1215)
 - [x] **T128** Volume 2: 6.7 IAM (pp. 1217-1230)
-- [ ] **T129** Volume 2: 6.8 S3 (pp. 1231-1243)
+- [x] **T129** Volume 2: 6.8 S3 (pp. 1231-1243)
 - [ ] **T130** Volume 2: 6.9 EBS and EFS (pp. 1245-1259)
 - [ ] **T131** Volume 2: 6.10 RDS and Aurora (pp. 1261-1271)
 - [ ] **T132** Volume 2: 6.11 ElastiCache (pp. 1273-1283)
