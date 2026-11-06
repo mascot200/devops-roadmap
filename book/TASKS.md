@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 8 of 389 done.
+Every page of the book is one task, with one commit and one push. 9 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -10,7 +10,7 @@ Every page of the book is one task, with one commit and one push. 8 of 389 done.
 - [x] **T006** Volume 1: copyright page
 - [x] **T007** Epigraph page
 - [x] **T008** Preface
-- [ ] **T009** How to Read This Book
+- [x] **T009** How to Read This Book
 - [ ] **T010** The Whole Climb on One Page
 - [ ] **T011** Contents at a Glance
 - [ ] **T012** Volume 1: contents
