@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 312 of 389 done.
+Every page of the book is one task, with one commit and one push. 313 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -314,7 +314,7 @@ Every page of the book is one task, with one commit and one push. 312 of 389 don
 - [x] **T310** Volume 5: 16.9 Service Mesh with Istio or Linkerd (pp. 3251-3264)
 - [x] **T311** Volume 5: 16.10 Mesh: mTLS, Routing, Retries, Timeouts, Circuit Breaking and Observability (pp. 3265-3281)
 - [x] **T312** Volume 5: Capstone 16 Harden a kind/EKS Cluster (pp. 3283-3302)
-- [ ] **T313** Volume 5: Level 17 GitOps (pp. 3303-3304)
+- [x] **T313** Volume 5: Level 17 GitOps (pp. 3303-3304)
 - [ ] **T314** Volume 5: 17.1 Desired State Management (pp. 3305-3315)
 - [ ] **T315** Volume 5: 17.2 Argo CD and Flux (pp. 3317-3327)
 - [ ] **T316** Volume 5: 17.3 Continuous Reconciliation (pp. 3329-3339)
