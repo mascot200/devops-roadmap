@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 279 of 389 done.
+Every page of the book is one task, with one commit and one push. 280 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -281,7 +281,7 @@ Every page of the book is one task, with one commit and one push. 279 of 389 don
 - [x] **T277** Volume 5: 14.1 Service Level Indicators (SLIs) (pp. 2819-2829)
 - [x] **T278** Volume 5: 14.2 Service Level Objectives (SLOs) (pp. 2831-2840)
 - [x] **T279** Volume 5: 14.3 Service Level Agreements (SLAs) (pp. 2841-2850)
-- [ ] **T280** Volume 5: 14.4 Error Budgets (pp. 2851-2865)
+- [x] **T280** Volume 5: 14.4 Error Budgets (pp. 2851-2865)
 - [ ] **T281** Volume 5: 14.5 Incident Management (pp. 2867-2878)
 - [ ] **T282** Volume 5: 14.6 On-call Practices (pp. 2879-2892)
 - [ ] **T283** Volume 5: 14.7 Postmortems (pp. 2893-2905)
