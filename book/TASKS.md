@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 20 of 389 done.
+Every page of the book is one task, with one commit and one push. 21 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -22,7 +22,7 @@ Every page of the book is one task, with one commit and one push. 20 of 389 done
 - [x] **T018** Volume 1: Part I The Ground Beneath Everything (pp. 33-33)
 - [x] **T019** Volume 1: Level 0 What DevOps Actually Is (pp. 35-39)
 - [x] **T020** Volume 1: 0.1 Software Development Lifecycle (SDLC) (pp. 41-50)
-- [ ] **T021** Volume 1: 0.2 CI/CD (pp. 51-61)
+- [x] **T021** Volume 1: 0.2 CI/CD (pp. 51-61)
 - [ ] **T022** Volume 1: 0.3 Infrastructure as Code (pp. 63-74)
 - [ ] **T023** Volume 1: 0.4 Configuration Management (pp. 75-86)
 - [ ] **T024** Volume 1: 0.5 Immutable Infrastructure (pp. 87-96)
