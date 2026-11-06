@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 144 of 389 done.
+Every page of the book is one task, with one commit and one push. 145 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -146,7 +146,7 @@ Every page of the book is one task, with one commit and one push. 144 of 389 don
 - [x] **T142** Volume 2: 7.1 Providers and Resources (pp. 1405-1417)
 - [x] **T143** Volume 2: 7.2 Variables and Outputs (pp. 1419-1429)
 - [x] **T144** Volume 2: 7.3 Modules (pp. 1431-1441)
-- [ ] **T145** Volume 2: 7.4 State and Remote Backends (pp. 1443-1455)
+- [x] **T145** Volume 2: 7.4 State and Remote Backends (pp. 1443-1455)
 - [ ] **T146** Volume 2: 7.5 Data Sources and Dependencies (pp. 1457-1469)
 - [ ] **T147** Volume 2: 7.6 Reusable Environments (pp. 1471-1483)
 - [ ] **T148** Volume 2: 7.7 Terraform CI/CD (pp. 1485-1498)
