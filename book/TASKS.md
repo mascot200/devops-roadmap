@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 90 of 389 done.
+Every page of the book is one task, with one commit and one push. 91 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -92,7 +92,7 @@ Every page of the book is one task, with one commit and one push. 90 of 389 done
 - [x] **T088** Volume 2: contents
 - [x] **T089** Volume 2: Part II Build It, Ship It (pp. 735-735)
 - [x] **T090** Volume 2: Level 4 Docker (pp. 737-738)
-- [ ] **T091** Volume 2: 4.1 How Docker Works Internally (pp. 739-750)
+- [x] **T091** Volume 2: 4.1 How Docker Works Internally (pp. 739-750)
 - [ ] **T092** Volume 2: 4.2 Images and Layers (pp. 751-760)
 - [ ] **T093** Volume 2: 4.3 Containers and Their Lifecycle (pp. 761-771)
 - [ ] **T094** Volume 2: 4.4 Registries (pp. 773-783)
