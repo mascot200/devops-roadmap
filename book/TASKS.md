@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 341 of 389 done.
+Every page of the book is one task, with one commit and one push. 342 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -343,7 +343,7 @@ Every page of the book is one task, with one commit and one push. 341 of 389 don
 - [x] **T339** Volume 6: half title
 - [x] **T340** Volume 6: print-set page
 - [x] **T341** Volume 6: title page
-- [ ] **T342** Volume 6: copyright page
+- [x] **T342** Volume 6: copyright page
 - [ ] **T343** Volume 6: contents
 - [ ] **T344** Volume 6: Part IX Senior Altitude (pp. 3549-3549)
 - [ ] **T345** Volume 6: Level 19 Architecture (pp. 3551-3552)
