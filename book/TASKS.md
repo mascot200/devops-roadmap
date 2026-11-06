@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 235 of 389 done.
+Every page of the book is one task, with one commit and one push. 236 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -237,7 +237,7 @@ Every page of the book is one task, with one commit and one push. 235 of 389 don
 - [x] **T233** Volume 4: 12.1 OSI and TCP/IP Models (pp. 2323-2333)
 - [x] **T234** Volume 4: 12.2 BGP Fundamentals (pp. 2335-2348)
 - [x] **T235** Volume 4: 12.3 DNS Architecture (pp. 2349-2363)
-- [ ] **T236** Volume 4: 12.4 TLS (pp. 2365-2379)
+- [x] **T236** Volume 4: 12.4 TLS (pp. 2365-2379)
 - [ ] **T237** Volume 4: 12.5 HTTP/2, HTTP/3 and QUIC (pp. 2381-2398)
 - [ ] **T238** Volume 4: 12.6 Load Balancing (pp. 2399-2414)
 - [ ] **T239** Volume 4: 12.7 CDNs (pp. 2415-2429)
