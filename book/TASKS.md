@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 186 of 389 done.
+Every page of the book is one task, with one commit and one push. 187 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -188,7 +188,7 @@ Every page of the book is one task, with one commit and one push. 186 of 389 don
 - [x] **T184** Volume 3: Level 9 Helm (pp. 1823-1824)
 - [x] **T185** Volume 3: 9.1 Charts (pp. 1825-1835)
 - [x] **T186** Volume 3: 9.2 Values (pp. 1837-1847)
-- [ ] **T187** Volume 3: 9.3 Templates (pp. 1849-1863)
+- [x] **T187** Volume 3: 9.3 Templates (pp. 1849-1863)
 - [ ] **T188** Volume 3: 9.4 Releases (pp. 1865-1877)
 - [ ] **T189** Volume 3: 9.5 Repositories (pp. 1879-1890)
 - [ ] **T190** Volume 3: 9.6 Packaging Applications for Kubernetes (pp. 1891-1904)
