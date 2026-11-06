@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 22 of 389 done.
+Every page of the book is one task, with one commit and one push. 23 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -24,7 +24,7 @@ Every page of the book is one task, with one commit and one push. 22 of 389 done
 - [x] **T020** Volume 1: 0.1 Software Development Lifecycle (SDLC) (pp. 41-50)
 - [x] **T021** Volume 1: 0.2 CI/CD (pp. 51-61)
 - [x] **T022** Volume 1: 0.3 Infrastructure as Code (pp. 63-74)
-- [ ] **T023** Volume 1: 0.4 Configuration Management (pp. 75-86)
+- [x] **T023** Volume 1: 0.4 Configuration Management (pp. 75-86)
 - [ ] **T024** Volume 1: 0.5 Immutable Infrastructure (pp. 87-96)
 - [ ] **T025** Volume 1: 0.6 Infrastructure Automation (pp. 97-108)
 - [ ] **T026** Volume 1: 0.7 Deployment Strategies (pp. 109-120)
