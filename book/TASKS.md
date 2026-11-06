@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 11 of 389 done.
+Every page of the book is one task, with one commit and one push. 12 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -13,7 +13,7 @@ Every page of the book is one task, with one commit and one push. 11 of 389 done
 - [x] **T009** How to Read This Book
 - [x] **T010** The Whole Climb on One Page
 - [x] **T011** Contents at a Glance
-- [ ] **T012** Volume 1: contents
+- [x] **T012** Volume 1: contents
 - [ ] **T013** Volume 1: Base Camp Before You Climb (pp. 1-1)
 - [ ] **T014** Volume 1: The Roadmap at a Glance (pp. 3-9)
 - [ ] **T015** Volume 1: The Senior-Level Mindset (pp. 11-18)
