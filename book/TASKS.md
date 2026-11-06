@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 297 of 389 done.
+Every page of the book is one task, with one commit and one push. 298 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -299,7 +299,7 @@ Every page of the book is one task, with one commit and one push. 297 of 389 don
 - [x] **T295** Volume 5: 15.7 RTO - Recovery Time Objective (pp. 3059-3071)
 - [x] **T296** Volume 5: 15.8 Off-site Backups (pp. 3073-3087)
 - [x] **T297** Volume 5: 15.9 Testing Backup Restoration (pp. 3089-3102)
-- [ ] **T298** Volume 5: 15.10 Failure Scenario Drills (pp. 3103-3120)
+- [x] **T298** Volume 5: 15.10 Failure Scenario Drills (pp. 3103-3120)
 - [ ] **T299** Volume 5: Capstone 15 Break It, Time It, Write the Plan (pp. 3121-3134)
 - [ ] **T300** Volume 5: Part VIII Platforms at Scale (pp. 3135-3135)
 - [ ] **T301** Volume 5: Level 16 Advanced Kubernetes (pp. 3137-3138)
