@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 379 of 389 done.
+Every page of the book is one task, with one commit and one push. 380 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -381,7 +381,7 @@ Every page of the book is one task, with one commit and one push. 379 of 389 don
 - [x] **T377** Volume 6: Project 7 Observability (pp. 3917-3928)
 - [x] **T378** Volume 6: Project 8 Disaster Recovery (pp. 3929-3942)
 - [x] **T379** Volume 6: Project 9 Senior Architecture (pp. 3943-3955)
-- [ ] **T380** Volume 6: Appendices The Back of the Pack (pp. 3957-3957)
+- [x] **T380** Volume 6: Appendices The Back of the Pack (pp. 3957-3957)
 - [ ] **T381** Volume 6: Appendix A Topic Template (pp. 3959-3961)
 - [ ] **T382** Volume 6: Appendix B Captions for the DevOps Roadmap posts (pp. 3963-3965)
 - [ ] **T383** Volume 6: Appendix C DevOps Roadmap carousel (pp. 3967-3970)
