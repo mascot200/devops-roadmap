@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 289 of 389 done.
+Every page of the book is one task, with one commit and one push. 290 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -291,7 +291,7 @@ Every page of the book is one task, with one commit and one push. 289 of 389 don
 - [x] **T287** Volume 5: Capstone 14 Reliability for shop-api: SLOs, burn-rate alerts and a mock incident (pp. 2955-2982)
 - [x] **T288** Volume 5: Level 15 Disaster Recovery (pp. 2983-2984)
 - [x] **T289** Volume 5: 15.1 Backups (pp. 2985-2996)
-- [ ] **T290** Volume 5: 15.2 Replication (pp. 2997-3006)
+- [x] **T290** Volume 5: 15.2 Replication (pp. 2997-3006)
 - [ ] **T291** Volume 5: 15.3 Snapshots (pp. 3007-3017)
 - [ ] **T292** Volume 5: 15.4 Restore Procedures (pp. 3019-3031)
 - [ ] **T293** Volume 5: 15.5 Failover (pp. 3033-3046)
