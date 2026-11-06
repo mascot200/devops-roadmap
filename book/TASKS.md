@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 261 of 389 done.
+Every page of the book is one task, with one commit and one push. 262 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -263,7 +263,7 @@ Every page of the book is one task, with one commit and one push. 261 of 389 don
 - [x] **T259** Volume 4: 13.11 Partitioning and Sharding (pp. 2727-2738)
 - [x] **T260** Volume 4: 13.12 Consistency, Availability and the CAP Theorem (pp. 2739-2750)
 - [x] **T261** Volume 4: 13.13 Eventual Consistency (pp. 2751-2762)
-- [ ] **T262** Volume 4: 13.14 Idempotency (pp. 2763-2776)
+- [x] **T262** Volume 4: 13.14 Idempotency (pp. 2763-2776)
 - [ ] **T263** Volume 4: 13.15 Distributed Locks and Queues (pp. 2777-2791)
 - [ ] **T264** Volume 4: Capstone 13 Postgres, Redis and Kafka under failure (pp. 2793-2813)
 - [ ] **T265** Volume 4: back cover
