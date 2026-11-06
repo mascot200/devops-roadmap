@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 98 of 389 done.
+Every page of the book is one task, with one commit and one push. 99 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -100,7 +100,7 @@ Every page of the book is one task, with one commit and one push. 98 of 389 done
 - [x] **T096** Volume 2: 4.6 Docker Networks (pp. 795-804)
 - [x] **T097** Volume 2: 4.7 Dockerfile (pp. 805-815)
 - [x] **T098** Volume 2: 4.8 Docker Compose (pp. 817-828)
-- [ ] **T099** Volume 2: 4.9 Image Caching and Layer Optimization (pp. 829-839)
+- [x] **T099** Volume 2: 4.9 Image Caching and Layer Optimization (pp. 829-839)
 - [ ] **T100** Volume 2: 4.10 Multi-stage Builds (pp. 841-850)
 - [ ] **T101** Volume 2: 4.11 Non-root Containers (pp. 851-863)
 - [ ] **T102** Volume 2: 4.12 Health Checks (pp. 865-875)
