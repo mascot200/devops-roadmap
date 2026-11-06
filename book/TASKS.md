@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 275 of 389 done.
+Every page of the book is one task, with one commit and one push. 276 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -277,7 +277,7 @@ Every page of the book is one task, with one commit and one push. 275 of 389 don
 - [x] **T273** Volume 5: copyright page
 - [x] **T274** Volume 5: contents
 - [x] **T275** Volume 5: Part VII Keep It Running (pp. 2815-2815)
-- [ ] **T276** Volume 5: Level 14 SRE (pp. 2817-2818)
+- [x] **T276** Volume 5: Level 14 SRE (pp. 2817-2818)
 - [ ] **T277** Volume 5: 14.1 Service Level Indicators (SLIs) (pp. 2819-2829)
 - [ ] **T278** Volume 5: 14.2 Service Level Objectives (SLOs) (pp. 2831-2840)
 - [ ] **T279** Volume 5: 14.3 Service Level Agreements (SLAs) (pp. 2841-2850)
