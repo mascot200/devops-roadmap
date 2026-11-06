@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 134 of 389 done.
+Every page of the book is one task, with one commit and one push. 135 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -136,7 +136,7 @@ Every page of the book is one task, with one commit and one push. 134 of 389 don
 - [x] **T132** Volume 2: 6.11 ElastiCache (pp. 1273-1283)
 - [x] **T133** Volume 2: 6.12 Route 53 (pp. 1285-1295)
 - [x] **T134** Volume 2: 6.13 CloudFront (pp. 1297-1310)
-- [ ] **T135** Volume 2: 6.14 Application Load Balancer (pp. 1311-1324)
+- [x] **T135** Volume 2: 6.14 Application Load Balancer (pp. 1311-1324)
 - [ ] **T136** Volume 2: 6.15 KMS (pp. 1325-1337)
 - [ ] **T137** Volume 2: 6.16 Secrets Manager (pp. 1339-1351)
 - [ ] **T138** Volume 2: 6.17 CloudTrail (pp. 1353-1367)
