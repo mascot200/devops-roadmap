@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 29 of 389 done.
+Every page of the book is one task, with one commit and one push. 30 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -31,7 +31,7 @@ Every page of the book is one task, with one commit and one push. 29 of 389 done
 - [x] **T027** Volume 1: 0.8 High Availability and Scalability (pp. 121-133)
 - [x] **T028** Volume 1: 0.9 Disaster Recovery (pp. 135-146)
 - [x] **T029** Volume 1: 0.10 Observability (pp. 147-159)
-- [ ] **T030** Volume 1: 0.11 Site Reliability Engineering (pp. 161-172)
+- [x] **T030** Volume 1: 0.11 Site Reliability Engineering (pp. 161-172)
 - [ ] **T031** Volume 1: 0.12 DevSecOps (pp. 173-184)
 - [ ] **T032** Volume 1: 0.13 Platform Engineering (pp. 185-198)
 - [ ] **T033** Volume 1: Capstone 0 Lifecycle Map of a Real Open-Source Project (pp. 199-212)
