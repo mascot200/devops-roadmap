@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 156 of 389 done.
+Every page of the book is one task, with one commit and one push. 157 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -158,7 +158,7 @@ Every page of the book is one task, with one commit and one push. 156 of 389 don
 - [x] **T154** Volume 2: print interior
 - [x] **T155** Volume 2: wraparound print cover
 - [x] **T156** Volume 3: front cover
-- [ ] **T157** Volume 3: half title
+- [x] **T157** Volume 3: half title
 - [ ] **T158** Volume 3: print-set page
 - [ ] **T159** Volume 3: title page
 - [ ] **T160** Volume 3: copyright page
