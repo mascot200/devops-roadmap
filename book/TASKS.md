@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 68 of 389 done.
+Every page of the book is one task, with one commit and one push. 69 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -70,7 +70,7 @@ Every page of the book is one task, with one commit and one push. 68 of 389 done
 - [x] **T066** Volume 1: 3.4 reset and revert (pp. 599-608)
 - [x] **T067** Volume 1: 3.5 stash (pp. 609-618)
 - [x] **T068** Volume 1: 3.6 Tags (pp. 619-628)
-- [ ] **T069** Volume 1: 3.7 bisect (pp. 629-638)
+- [x] **T069** Volume 1: 3.7 bisect (pp. 629-638)
 - [ ] **T070** Volume 1: 3.8 Protected Branches and Pull Requests (pp. 639-650)
 - [ ] **T071** Volume 1: 3.9 Trunk-based Development and GitFlow (pp. 651-661)
 - [ ] **T072** Volume 1: 3.10 Semantic Versioning and Release Management (pp. 663-675)
