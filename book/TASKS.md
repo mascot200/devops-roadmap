@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 317 of 389 done.
+Every page of the book is one task, with one commit and one push. 318 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -319,7 +319,7 @@ Every page of the book is one task, with one commit and one push. 317 of 389 don
 - [x] **T315** Volume 5: 17.2 Argo CD and Flux (pp. 3317-3327)
 - [x] **T316** Volume 5: 17.3 Continuous Reconciliation (pp. 3329-3339)
 - [x] **T317** Volume 5: 17.4 Environment Promotion (pp. 3341-3350)
-- [ ] **T318** Volume 5: 17.5 Application Synchronization (pp. 3351-3363)
+- [x] **T318** Volume 5: 17.5 Application Synchronization (pp. 3351-3363)
 - [ ] **T319** Volume 5: 17.6 Rollback Through Git (pp. 3365-3374)
 - [ ] **T320** Volume 5: 17.7 The Full Flow: CI to GitOps (pp. 3375-3387)
 - [ ] **T321** Volume 5: Capstone 17 GitOps Delivery for shop-api (pp. 3389-3402)
