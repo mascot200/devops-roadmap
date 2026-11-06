@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 212 of 389 done.
+Every page of the book is one task, with one commit and one push. 213 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -214,7 +214,7 @@ Every page of the book is one task, with one commit and one push. 212 of 389 don
 - [x] **T210** Volume 3: 11.4 Secrets Management and Encryption (pp. 2165-2176)
 - [x] **T211** Volume 3: 11.5 OWASP Top 10 (pp. 2177-2190)
 - [x] **T212** Volume 3: 11.6 Authentication and Authorization (pp. 2191-2202)
-- [ ] **T213** Volume 3: 11.7 JWT and OAuth (pp. 2203-2215)
+- [x] **T213** Volume 3: 11.7 JWT and OAuth (pp. 2203-2215)
 - [ ] **T214** Volume 3: 11.8 API Security (pp. 2217-2229)
 - [ ] **T215** Volume 3: 11.9 Container Image Scanning (Trivy) (pp. 2231-2243)
 - [ ] **T216** Volume 3: 11.10 Dependency Scanning (Snyk, Dependabot) (pp. 2245-2256)
