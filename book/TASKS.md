@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 48 of 389 done.
+Every page of the book is one task, with one commit and one push. 49 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -50,7 +50,7 @@ Every page of the book is one task, with one commit and one push. 48 of 389 done
 - [x] **T046** Volume 1: 1.12 SSH Keys, known_hosts and authorized_keys (pp. 349-362)
 - [x] **T047** Volume 1: 1.13 ssh-agent and Port Forwarding (pp. 363-375)
 - [x] **T048** Volume 1: Capstone 1 Deploy shop-api on a VPS by hand (pp. 377-395)
-- [ ] **T049** Volume 1: Level 2 Networking (pp. 397-398)
+- [x] **T049** Volume 1: Level 2 Networking (pp. 397-398)
 - [ ] **T050** Volume 1: 2.1 IP, MAC, ARP and DHCP (pp. 399-409)
 - [ ] **T051** Volume 1: 2.2 TCP, UDP and ICMP (pp. 411-421)
 - [ ] **T052** Volume 1: 2.3 IPv4, IPv6, CIDR and Subnets (pp. 423-433)
