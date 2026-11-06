@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 207 of 389 done.
+Every page of the book is one task, with one commit and one push. 208 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -209,7 +209,7 @@ Every page of the book is one task, with one commit and one push. 207 of 389 don
 - [x] **T205** Volume 3: Capstone 10 Observable shop-api (pp. 2091-2122)
 - [x] **T206** Volume 3: Level 11 Security / DevSecOps (pp. 2123-2124)
 - [x] **T207** Volume 3: 11.1 Linux Security and SSH Hardening (pp. 2125-2136)
-- [ ] **T208** Volume 3: 11.2 Least-privilege IAM (pp. 2137-2150)
+- [x] **T208** Volume 3: 11.2 Least-privilege IAM (pp. 2137-2150)
 - [ ] **T209** Volume 3: 11.3 Cloud Security Groups and Policies (pp. 2151-2163)
 - [ ] **T210** Volume 3: 11.4 Secrets Management and Encryption (pp. 2165-2176)
 - [ ] **T211** Volume 3: 11.5 OWASP Top 10 (pp. 2177-2190)
