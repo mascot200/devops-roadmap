@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 85 of 389 done.
+Every page of the book is one task, with one commit and one push. 86 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -87,7 +87,7 @@ Every page of the book is one task, with one commit and one push. 85 of 389 done
 - [x] **T083** Volume 2: front cover
 - [x] **T084** Volume 2: half title
 - [x] **T085** Volume 2: print-set page
-- [ ] **T086** Volume 2: title page
+- [x] **T086** Volume 2: title page
 - [ ] **T087** Volume 2: copyright page
 - [ ] **T088** Volume 2: contents
 - [ ] **T089** Volume 2: Part II Build It, Ship It (pp. 735-735)
