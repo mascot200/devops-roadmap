@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 64 of 389 done.
+Every page of the book is one task, with one commit and one push. 65 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -66,7 +66,7 @@ Every page of the book is one task, with one commit and one push. 64 of 389 done
 - [x] **T062** Volume 1: Level 3 Git & GitHub (pp. 563-564)
 - [x] **T063** Volume 1: 3.1 Branching and Merging (pp. 565-575)
 - [x] **T064** Volume 1: 3.2 Rebasing (pp. 577-586)
-- [ ] **T065** Volume 1: 3.3 Cherry-picking (pp. 587-597)
+- [x] **T065** Volume 1: 3.3 Cherry-picking (pp. 587-597)
 - [ ] **T066** Volume 1: 3.4 reset and revert (pp. 599-608)
 - [ ] **T067** Volume 1: 3.5 stash (pp. 609-618)
 - [ ] **T068** Volume 1: 3.6 Tags (pp. 619-628)
