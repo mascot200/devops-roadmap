@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 229 of 389 done.
+Every page of the book is one task, with one commit and one push. 230 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -231,7 +231,7 @@ Every page of the book is one task, with one commit and one push. 229 of 389 don
 - [x] **T227** Volume 4: print-set page
 - [x] **T228** Volume 4: title page
 - [x] **T229** Volume 4: copyright page
-- [ ] **T230** Volume 4: contents
+- [x] **T230** Volume 4: contents
 - [ ] **T231** Volume 4: Part VI Under the Hood (pp. 2319-2319)
 - [ ] **T232** Volume 4: Level 12 Advanced Networking (pp. 2321-2322)
 - [ ] **T233** Volume 4: 12.1 OSI and TCP/IP Models (pp. 2323-2333)
