@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 245 of 389 done.
+Every page of the book is one task, with one commit and one push. 246 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -247,7 +247,7 @@ Every page of the book is one task, with one commit and one push. 245 of 389 don
 - [x] **T243** Volume 4: 12.11 TLS Termination (pp. 2479-2495)
 - [x] **T244** Volume 4: 12.12 mTLS (pp. 2497-2511)
 - [x] **T245** Volume 4: 12.13 Rate Limiting (pp. 2513-2531)
-- [ ] **T246** Volume 4: 12.14 Circuit Breakers (pp. 2533-2552)
+- [x] **T246** Volume 4: 12.14 Circuit Breakers (pp. 2533-2552)
 - [ ] **T247** Volume 4: Capstone 12 Secure Edge and Resilient Services Lab (pp. 2553-2576)
 - [ ] **T248** Volume 4: Level 13 Databases & Distributed Systems (pp. 2577-2578)
 - [ ] **T249** Volume 4: 13.1 PostgreSQL Indexes (pp. 2579-2592)
