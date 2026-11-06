@@ -1,6 +1,6 @@
 # Book tasks
 
-Every page of the book is one task, with one commit and one push. 175 of 389 done.
+Every page of the book is one task, with one commit and one push. 176 of 389 done.
 
 - [x] **T001** Typesetting toolchain, book README and task list
 - [x] **T002** Volume 1: front cover
@@ -177,7 +177,7 @@ Every page of the book is one task, with one commit and one push. 175 of 389 don
 - [x] **T173** Volume 3: 8.10 StatefulSets (pp. 1667-1678)
 - [x] **T174** Volume 3: 8.11 DaemonSets (pp. 1679-1690)
 - [x] **T175** Volume 3: 8.12 Jobs and CronJobs (pp. 1691-1702)
-- [ ] **T176** Volume 3: 8.13 Scheduling (pp. 1703-1714)
+- [x] **T176** Volume 3: 8.13 Scheduling (pp. 1703-1714)
 - [ ] **T177** Volume 3: 8.14 Resource Requests and Limits (pp. 1715-1725)
 - [ ] **T178** Volume 3: 8.15 Liveness and Readiness Probes (pp. 1727-1739)
 - [ ] **T179** Volume 3: 8.16 Horizontal Pod Autoscaling (pp. 1741-1752)
